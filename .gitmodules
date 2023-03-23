@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MSGARCH"]
+	path = MSGARCH
+	url = https://github.com/cran/MSGARCH
+	shallow = true
+	registered = true
 [submodule "nse"]
 	path = nse
 	url = https://github.com/keblu/nse
