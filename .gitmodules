@@ -5,3 +5,6 @@
 [submodule "MSGARCH"]
 	path = MSGARCH
 	url = https://github.com/cran/MSGARCH
+[submodule "nse"]
+	path = nse
+	url = https://github.com/keblu/nse
